@@ -1,4 +1,6 @@
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-black?style=flat)
+![License](https://img.shields.io/badge/License-Academic-green?style=flat)
 # Asistente de Composición Musical
 
 ## 1. Descripción del proyecto
