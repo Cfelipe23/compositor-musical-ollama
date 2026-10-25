@@ -1,0 +1,24 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Configuraciones de editores de código (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+
+# Archivos del sistema operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de entorno locales
+.env

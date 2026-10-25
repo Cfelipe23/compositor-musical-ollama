@@ -1,0 +1,326 @@
+
+{
+  "nombre_catalogo": "Catálogo de guías para composición musical",
+  "version": "1.0",
+  "idioma": "es",
+  "guias": [
+    {
+      "nombre": "estructura_verso_estribillo_clasica",
+      "descripcion": "Guía para crear canciones narrativas de rock pop en español.",
+      "instrucciones": "Cuenta una historia mediante versos ordenados, usa un estribillo que resuma la idea central y conserva una progresión narrativa clara.",
+      "tags": ["rock pop", "español", "narrativa", "costumbrista"]
+    },
+    {
+      "nombre": "estribillo_amplio_cantable",
+      "descripcion": "Guía para crear estribillos románticos y emocionales.",
+      "instrucciones": "Construye un estribillo melódico, fácil de recordar y cantar. Expresa la emoción con frases claras y prepara su llegada desde los versos.",
+      "tags": ["rock pop", "romántico", "emocional", "estribillo"]
+    },
+    {
+      "nombre": "estribillo_himno_repetitivo",
+      "descripcion": "Guía para canciones de rock pop social o reivindicativo.",
+      "instrucciones": "Resume el mensaje social en una frase contundente y repetible. Utiliza versos que desarrollen la idea y un estribillo colectivo con energía.",
+      "tags": ["rock pop", "social", "reivindicativo", "himno"]
+    },
+    {
+      "nombre": "prosodia_ingles_natural",
+      "descripcion": "Guía para escribir letras en inglés con una pronunciación natural al cantar.",
+      "instrucciones": "Prioriza expresiones idiomáticas, acentuación natural y frases que encajen con el ritmo. Evita traducciones literales que suenen artificiales.",
+      "tags": ["rock pop", "inglés", "prosodia", "letras"]
+    },
+    {
+      "nombre": "metaforas_libertad_metrica",
+      "descripcion": "Guía para letras poéticas y abstractas.",
+      "instrucciones": "Utiliza imágenes, metáforas y asociaciones originales. Permite variaciones métricas cuando ayuden a expresar la idea y conserva coherencia temática.",
+      "tags": ["rock pop", "poético", "abstracto", "metáforas"]
+    },
+    {
+      "nombre": "estribillo_frase_repetida_rock",
+      "descripcion": "Guía para estribillos directos y energéticos.",
+      "instrucciones": "Crea una frase central breve y potente, repítela estratégicamente y refuérzala con una melodía enérgica y una instrumentación que aumente la intensidad.",
+      "tags": ["rock pop", "energético", "directo", "repetición"]
+    },
+    {
+      "nombre": "dinamica_tension_liberacion",
+      "descripcion": "Guía de contraste dinámico para rock alternativo.",
+      "instrucciones": "Alterna secciones contenidas con momentos intensos. Aumenta gradualmente la tensión y libera esa energía en el estribillo o clímax.",
+      "tags": ["rock alternativo", "dinámica", "tensión", "contraste"]
+    },
+    {
+      "nombre": "texturas_estructura_no_convencional",
+      "descripcion": "Guía para composiciones atmosféricas y experimentales.",
+      "instrucciones": "Explora capas sonoras, silencios, cambios de textura y estructuras menos previsibles. Mantén un hilo emocional que conecte las secciones.",
+      "tags": ["rock alternativo", "experimental", "atmósfera", "texturas"]
+    },
+    {
+      "nombre": "riff_memorable_puente_instrumental",
+      "descripcion": "Guía para rock basado en guitarras y riffs memorables.",
+      "instrucciones": "Diseña un riff reconocible que identifique la canción. Alterna partes vocales con un puente instrumental y evita que los arreglos opaquen la melodía principal.",
+      "tags": ["rock alternativo", "guitarra", "riff", "puente"]
+    },
+    {
+      "nombre": "sintetizadores_brillantes_agridulce",
+      "descripcion": "Guía para indie pop luminoso con matices emocionales.",
+      "instrucciones": "Combina sintetizadores brillantes, melodías accesibles y letras que puedan mezclar optimismo con nostalgia o vulnerabilidad.",
+      "tags": ["indie pop", "luminoso", "alegre", "sintetizadores"]
+    },
+    {
+      "nombre": "tempo_lento_reverb_intimo",
+      "descripcion": "Guía para indie pop melancólico e introspectivo.",
+      "instrucciones": "Utiliza un tempo tranquilo, una interpretación vocal íntima y reverberación moderada. Deja espacio entre instrumentos para crear profundidad emocional.",
+      "tags": ["indie pop", "melancólico", "introspectivo", "reverb"]
+    },
+    {
+      "nombre": "produccion_cruda_detalle",
+      "descripcion": "Guía para una producción indie de sonido casero.",
+      "instrucciones": "Conserva una interpretación cercana y espontánea. Destaca pequeños detalles instrumentales y evita pulir tanto la producción que pierda su carácter natural.",
+      "tags": ["indie pop", "lo-fi", "casero", "producción"]
+    },
+    {
+      "nombre": "mambo_coros_soneros",
+      "descripcion": "Guía para salsa dura con protagonismo instrumental y sonero.",
+      "instrucciones": "Combina secciones de mambo, espacio para improvisaciones vocales y coros responsoriales. Coordina los metales y la percusión para sostener el impulso bailable.",
+      "tags": ["salsa dura", "mambo", "sonero", "coros"]
+    },
+    {
+      "nombre": "versos_narrativos_coro_pegajoso",
+      "descripcion": "Guía para narrar historias sociales en salsa.",
+      "instrucciones": "Desarrolla una historia concreta en los versos y resume su mensaje en un coro memorable. Usa imágenes cotidianas y arreglos rítmicos que acompañen la narración.",
+      "tags": ["salsa", "crónica social", "narrativa", "coro"]
+    },
+    {
+      "nombre": "llamada_respuesta_fiesta",
+      "descripcion": "Guía para canciones de salsa festivas y de homenaje.",
+      "instrucciones": "Alterna frases del cantante con respuestas del coro. Introduce expresiones celebratorias y pasajes instrumentales que inviten a participar y bailar.",
+      "tags": ["salsa", "fiesta", "homenaje", "llamada y respuesta"]
+    },
+    {
+      "nombre": "estribillo_amplio_modulacion",
+      "descripcion": "Guía para salsa romántica con clímax emocional.",
+      "instrucciones": "Construye versos que desarrollen el conflicto amoroso y un estribillo amplio. Considera una modulación en el clímax solo si fortalece la emoción.",
+      "tags": ["salsa romántica", "desamor", "drama", "modulación"]
+    },
+    {
+      "nombre": "melodia_dulce_coros_suaves",
+      "descripcion": "Guía para declaraciones de amor en salsa romántica.",
+      "instrucciones": "Usa una melodía cálida, frases afectuosas y coros suaves. Equilibra la voz principal con arreglos armónicos sin perder el carácter bailable.",
+      "tags": ["salsa romántica", "amor", "melodía", "coros"]
+    },
+    {
+      "nombre": "letras_recuerdo_cuerdas",
+      "descripcion": "Guía para canciones de salsa centradas en recuerdos y nostalgia.",
+      "instrucciones": "Evoca momentos y lugares significativos mediante imágenes concretas. Utiliza arreglos de cuerdas cuando aporten calidez y profundidad al recuerdo.",
+      "tags": ["salsa", "nostalgia", "recuerdos", "cuerdas"]
+    },
+    {
+      "nombre": "coro_corto_beat_urbano",
+      "descripcion": "Guía para salsa choke moderna con influencia urbana.",
+      "instrucciones": "Crea un coro breve y rítmico que se recuerde rápidamente. Integra el beat urbano con elementos salseros y conserva una identidad bailable propia.",
+      "tags": ["salsa choke", "urbano", "coro corto", "beat"]
+    },
+    {
+      "nombre": "sintetizadores_drops_bailable",
+      "descripcion": "Guía para fusionar salsa moderna con electrónica.",
+      "instrucciones": "Combina percusión latina con sintetizadores y transiciones electrónicas. Coloca los drops en momentos que aumenten la energía sin desplazar el ritmo principal.",
+      "tags": ["salsa moderna", "electrónica", "sintetizadores", "drops"]
+    },
+    {
+      "nombre": "lenguaje_coloquial_jerga",
+      "descripcion": "Guía para letras urbanas con lenguaje coloquial.",
+      "instrucciones": "Utiliza expresiones naturales y vocabulario coherente con el contexto del personaje. Evita introducir jerga de forma artificial y mantén clara la historia.",
+      "tags": ["salsa choke", "calle", "coloquial", "jerga"]
+    },
+    {
+      "nombre": "versos_largos_coro_corto",
+      "descripcion": "Guía para merengue típico narrativo y costumbrista.",
+      "instrucciones": "Desarrolla anécdotas en versos narrativos y remata cada sección con un coro breve. Mantén fluidez rítmica y deja espacio para el acordeón o la güira.",
+      "tags": ["merengue típico", "narrativa", "costumbrista", "coro"]
+    },
+    {
+      "nombre": "juego_verbal_humor",
+      "descripcion": "Guía para letras pícaras y humorísticas de merengue.",
+      "instrucciones": "Utiliza juegos de palabras, situaciones cómicas y dobles sentidos apropiados al contexto. Prioriza la claridad y el ritmo para que los remates funcionen al cantarse.",
+      "tags": ["merengue", "humor", "picardía", "juegos de palabras"]
+    },
+    {
+      "nombre": "llamada_respuesta_coros",
+      "descripcion": "Guía para merengue festivo con participación del coro.",
+      "instrucciones": "Alterna frases cortas del cantante con respuestas grupales. Mantén un pulso vivo y usa variaciones del coro para sostener la energía de la fiesta.",
+      "tags": ["merengue", "fiesta", "coros", "respuesta"]
+    },
+    {
+      "nombre": "estribillo_melodico_metales",
+      "descripcion": "Guía para merengue moderno romántico.",
+      "instrucciones": "Escribe un estribillo melódico y emocional. Usa arreglos de metales para reforzar las transiciones y aportar brillo sin saturar la voz.",
+      "tags": ["merengue moderno", "romántico", "melodía", "metales"]
+    },
+    {
+      "nombre": "letras_ingeniosas_coros",
+      "descripcion": "Guía para merengue con humor o crítica social.",
+      "instrucciones": "Parte de una situación reconocible, desarrolla observaciones ingeniosas y crea coros que resuman la idea. Evita que el mensaje pierda claridad por exceso de palabras.",
+      "tags": ["merengue", "social", "humor", "ingenio"]
+    },
+    {
+      "nombre": "estribillo_frase_repetida_merengue",
+      "descripcion": "Guía para canciones de merengue centradas en el baile.",
+      "instrucciones": "Diseña una frase sencilla, rítmica y repetible. Refuerza el estribillo con percusión, bajo y metales para favorecer la participación del público.",
+      "tags": ["merengue", "baile", "celebración", "repetición"]
+    },
+    {
+      "nombre": "coro_corto_base_percusion",
+      "descripcion": "Guía para merengue urbano fusionado con reguetón.",
+      "instrucciones": "Combina una base de percusión enérgica con un coro breve. Equilibra los patrones rítmicos de ambos géneros para que la fusión resulte coherente.",
+      "tags": ["merengue urbano", "reguetón", "percusión", "coro"]
+    },
+    {
+      "nombre": "sintetizadores_tempo_alto_drops",
+      "descripcion": "Guía para merengue electrónico de tempo alto.",
+      "instrucciones": "Utiliza sintetizadores dinámicos, transiciones claras y drops que aumenten la energía. Mantén un pulso rápido y conserva elementos que identifiquen el merengue.",
+      "tags": ["merengue", "electrónica", "tempo alto", "drops"]
+    },
+    {
+      "nombre": "versos_rapeados_coro_cantado",
+      "descripcion": "Guía para fusionar merengue urbano con trap.",
+      "instrucciones": "Contrasta versos de interpretación rapeada con un coro melódico. Coordina el fraseo vocal con la percusión y evita cambios bruscos que rompan la continuidad.",
+      "tags": ["merengue urbano", "trap", "rap", "coro cantado"]
+    },
+    {
+      "nombre": "coro_frase_repetida_dembow",
+      "descripcion": "Guía para reguetón clásico de ambiente festivo.",
+      "instrucciones": "Construye un coro corto alrededor de una frase reconocible. Encaja la letra en el patrón del dembow y usa variaciones en los versos para evitar monotonía.",
+      "tags": ["reguetón clásico", "fiesta", "dembow", "repetición"]
+    },
+    {
+      "nombre": "versos_historia_coro_pegajoso",
+      "descripcion": "Guía para reguetón narrativo.",
+      "instrucciones": "Cuenta una historia con principio, desarrollo y desenlace en los versos. Crea un coro memorable que resuma el conflicto o la idea principal.",
+      "tags": ["reguetón", "narrativa", "historia", "coro"]
+    },
+    {
+      "nombre": "estribillo_colectivo_jerga",
+      "descripcion": "Guía para crear un himno de barrio en reguetón.",
+      "instrucciones": "Escribe un estribillo colectivo con frases directas y vocabulario contextual. Destaca la pertenencia y la identidad del grupo sin perder naturalidad.",
+      "tags": ["reguetón", "barrio", "colectivo", "jerga"]
+    },
+    {
+      "nombre": "coro_dulce_tempo_medio",
+      "descripcion": "Guía para reguetón romántico sobre el enamoramiento.",
+      "instrucciones": "Usa un tempo medio, una melodía cálida y un coro fácil de recordar. Expresa el enamoramiento con imágenes personales y una interpretación vocal cercana.",
+      "tags": ["reguetón romántico", "enamoramiento", "tempo medio", "melodía"]
+    },
+    {
+      "nombre": "llora_pero_baila",
+      "descripcion": "Guía para canciones de reguetón que mezclan desamor y ritmo bailable.",
+      "instrucciones": "Contrasta una letra de pérdida o tristeza con una base rítmica bailable. Mantén coherencia emocional y crea un coro que exprese el contraste sin trivializarlo.",
+      "tags": ["reguetón", "desamor", "contraste", "bailable"]
+    },
+    {
+      "nombre": "letras_insinuantes_ritmo_lento",
+      "descripcion": "Guía para reguetón suave de temática romántica o seductora.",
+      "instrucciones": "Emplea un ritmo pausado, frases sugerentes y una interpretación vocal controlada. Prioriza la atmósfera y la musicalidad sobre la acumulación de palabras.",
+      "tags": ["reguetón suave", "seducción", "tempo lento", "atmósfera"]
+    },
+    {
+      "nombre": "definir_aporte_cada_genero",
+      "descripcion": "Guía para fusionar el reguetón experimental con otros géneros.",
+      "instrucciones": "Define qué aporta cada género en ritmo, instrumentos, armonía y voz. Distribuye esos elementos por secciones para lograr una fusión intencional y coherente.",
+      "tags": ["reguetón experimental", "fusión", "géneros", "arreglos"]
+    },
+    {
+      "nombre": "tematicas_inusuales_introspectivas",
+      "descripcion": "Guía para letras conceptuales e introspectivas.",
+      "instrucciones": "Explora temas poco habituales desde una perspectiva personal. Utiliza imágenes y símbolos coherentes, y desarrolla una idea central a lo largo de la canción.",
+      "tags": ["reguetón experimental", "conceptual", "introspectivo", "temática"]
+    },
+    {
+      "nombre": "texturas_efectos_silencios",
+      "descripcion": "Guía para producción atmosférica en reguetón experimental.",
+      "instrucciones": "Combina capas de sonido, efectos y silencios estratégicos. Diseña contrastes que refuercen el significado de la letra y mantén reconocible el pulso rítmico.",
+      "tags": ["reguetón experimental", "producción", "efectos", "silencios"]
+    },
+    {
+      "nombre": "letras_sencillas_metaforas_naturales",
+      "descripcion": "Guía para bachata tradicional sobre amor y desamor.",
+      "instrucciones": "Escribe letras claras y emotivas con metáforas inspiradas en la naturaleza y la vida cotidiana. Conserva un tono cercano y una melodía compatible con la guitarra bachatera.",
+      "tags": ["bachata tradicional", "amor", "desamor", "metáforas"]
+    },
+    {
+      "nombre": "versos_largos_coro_breve",
+      "descripcion": "Guía para bachata narrativa sobre situaciones cotidianas.",
+      "instrucciones": "Desarrolla la historia en versos detallados y utiliza un coro breve como resumen emocional. Mantén una narración natural y deja respirar los arreglos de guitarra.",
+      "tags": ["bachata", "narrativa", "cotidiano", "coro breve"]
+    },
+    {
+      "nombre": "referencias_campo_familia",
+      "descripcion": "Guía para homenajear la tradición de la bachata.",
+      "instrucciones": "Incluye referencias auténticas a la familia, el campo, las costumbres o las raíces. Usa detalles concretos y evita estereotipos que no aporten a la historia.",
+      "tags": ["bachata tradicional", "tradición", "familia", "campo"]
+    },
+    {
+      "nombre": "coro_amplio_armonias_vocales",
+      "descripcion": "Guía para bachata moderna de amor apasionado.",
+      "instrucciones": "Crea un coro melódico amplio y expresivo. Añade armonías vocales que refuercen el sentimiento y coordina las guitarras con el punto culminante de la melodía.",
+      "tags": ["bachata moderna", "amor", "armonías vocales", "coro"]
+    },
+    {
+      "nombre": "versos_intimos_puente_climax",
+      "descripcion": "Guía para bachata de desamor y drama.",
+      "instrucciones": "Empieza con versos íntimos y personales, desarrolla el conflicto y reserva un puente para el clímax emocional. Mantén un lenguaje concreto y una progresión creíble.",
+      "tags": ["bachata", "desamor", "drama", "puente"]
+    },
+    {
+      "nombre": "letras_recuerdo_arreglos_suaves",
+      "descripcion": "Guía para bachata nostálgica.",
+      "instrucciones": "Evoca recuerdos mediante escenas y detalles personales. Usa arreglos suaves y una interpretación cercana para transmitir añoranza sin sobrecargar la producción.",
+      "tags": ["bachata", "nostalgia", "recuerdos", "arreglos"]
+    },
+    {
+      "nombre": "coro_corto_beat_urbano_guitarra",
+      "descripcion": "Guía para bachata urbana fusionada con reguetón.",
+      "instrucciones": "Integra un beat urbano con guitarras bachateras reconocibles. Escribe un coro corto y rítmico, y distribuye los elementos de ambos géneros sin competir entre sí.",
+      "tags": ["bachata urbana", "reguetón", "guitarra", "beat"]
+    },
+    {
+      "nombre": "armonias_vocales_produccion_pulida",
+      "descripcion": "Guía para fusionar bachata con R&B.",
+      "instrucciones": "Explora armonías vocales, matices melódicos y una producción cuidada. Conserva la presencia de la guitarra y equilibra la sofisticación armónica con la identidad bachatera.",
+      "tags": ["bachata", "R&B", "armonías", "producción"]
+    },
+    {
+      "nombre": "versos_rapeados_contraste_ritmico",
+      "descripcion": "Guía para bachata urbana fusionada con trap.",
+      "instrucciones": "Contrasta versos rapeados con secciones de bachata melódica. Coordina los cambios de ritmo y conserva una transición fluida entre la guitarra, la voz y la base urbana.",
+      "tags": ["bachata urbana", "trap", "rap", "contraste rítmico"]
+    },
+    {
+      "nombre": "una_sola_palabra_emocional",
+      "descripcion": "Guía para definir la emoción principal de una canción.",
+      "instrucciones": "Identifica una emoción dominante y úsala como criterio para elegir el vocabulario, las imágenes, la interpretación vocal, la armonía y la intensidad de los arreglos.",
+      "tags": ["emoción", "sentimiento", "composición", "coherencia"]
+    },
+    {
+      "nombre": "frase_o_melodia_repetible",
+      "descripcion": "Guía para crear un hook memorable.",
+      "instrucciones": "Define una frase o motivo melódico breve, distintivo y fácil de recordar. Repite el hook en momentos estratégicos y haz que represente la idea central de la canción.",
+      "tags": ["hook", "frase memorable", "melodía", "repetición"]
+    },
+    {
+      "nombre": "verso_coro_puente",
+      "descripcion": "Guía para organizar la estructura general de una canción.",
+      "instrucciones": "Distribuye las ideas en secciones con funciones claras. Usa los versos para desarrollar el tema, el coro para resumirlo y el puente para introducir contraste antes del cierre.",
+      "tags": ["estructura", "verso", "coro", "puente"]
+    },
+    {
+      "nombre": "registro_comodo_emocion",
+      "descripcion": "Guía para adaptar la voz y el registro a la canción.",
+      "instrucciones": "Elige un registro vocal cómodo y coherente con la emoción. Ajusta la melodía para que la interpretación sea natural y utiliza coros o dúos cuando aporten valor.",
+      "tags": ["voz", "registro", "interpretación", "emoción"]
+    },
+    {
+      "nombre": "instrumento_define_genero",
+      "descripcion": "Guía para elegir el instrumento o sonido identitario.",
+      "instrucciones": "Selecciona un instrumento o timbre que refuerce el género y la personalidad de la canción. Dale un papel reconocible en la introducción, los interludios o los motivos principales.",
+      "tags": ["instrumentación", "identidad sonora", "género", "arreglos"]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+
+{
+  "valor": "Composición musical",
+  "pregunta": "¿Qué género musical quieres componer?",
+  "hijos": [
+    {
+      "valor": "Rock pop",
+      "pregunta": "¿Qué estilo de rock pop prefieres?",
+      "hijos": [
+        {
+          "valor": "Rock pop en español",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Narrativo/costumbrista",
+              "guia": "estructura_verso_estribillo_clasica"
+            },
+            {
+              "valor": "Romántico/emocional",
+              "guia": "estribillo_amplio_cantable"
+            },
+            {
+              "valor": "Social/reivindicativo",
+              "guia": "estribillo_himno_repetitivo"
+            }
+          ]
+        },
+        {
+          "valor": "Rock pop en inglés",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Coloquial/contemporáneo",
+              "guia": "prosodia_ingles_natural"
+            },
+            {
+              "valor": "Poético/abstracto",
+              "guia": "metaforas_libertad_metrica"
+            },
+            {
+              "valor": "Directo/energético",
+              "guia": "estribillo_frase_repetida_rock"
+            }
+          ]
+        },
+        {
+          "valor": "Rock pop alternativo",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Suave a fuerte",
+              "guia": "dinamica_tension_liberacion"
+            },
+            {
+              "valor": "Atmosférico/experimental",
+              "guia": "texturas_estructura_no_convencional"
+            },
+            {
+              "valor": "Guitarrero clásico",
+              "guia": "riff_memorable_puente_instrumental"
+            }
+          ]
+        },
+        {
+          "valor": "Indie pop",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Luminoso/alegre",
+              "guia": "sintetizadores_brillantes_agridulce"
+            },
+            {
+              "valor": "Melancólico/introspectivo",
+              "guia": "tempo_lento_reverb_intimo"
+            },
+            {
+              "valor": "Lo-fi/casero",
+              "guia": "produccion_cruda_detalle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "Salsa",
+      "pregunta": "¿Qué estilo de salsa prefieres?",
+      "hijos": [
+        {
+          "valor": "Salsa dura/brava",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Descarga/instrumental con voz",
+              "guia": "mambo_coros_soneros"
+            },
+            {
+              "valor": "Crónica social",
+              "guia": "versos_narrativos_coro_pegajoso"
+            },
+            {
+              "valor": "Homenaje/celebración",
+              "guia": "llamada_respuesta_fiesta"
+            }
+          ]
+        },
+        {
+          "valor": "Salsa romántica",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Drama/desamor",
+              "guia": "estribillo_amplio_modulacion"
+            },
+            {
+              "valor": "Declaración de amor",
+              "guia": "melodia_dulce_coros_suaves"
+            },
+            {
+              "valor": "Nostalgia",
+              "guia": "letras_recuerdo_cuerdas"
+            }
+          ]
+        },
+        {
+          "valor": "Salsa choke/moderna",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Fusión con reguetón/urban",
+              "guia": "coro_corto_beat_urbano"
+            },
+            {
+              "valor": "Fusión con electrónica",
+              "guia": "sintetizadores_drops_bailable"
+            },
+            {
+              "valor": "Letra de calle",
+              "guia": "lenguaje_coloquial_jerga"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "Merengue",
+      "pregunta": "¿Qué estilo de merengue prefieres?",
+      "hijos": [
+        {
+          "valor": "Merengue típico dominicano",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Narrativa/costumbrista",
+              "guia": "versos_largos_coro_corto"
+            },
+            {
+              "valor": "Pícara/dobles sentidos",
+              "guia": "juego_verbal_humor"
+            },
+            {
+              "valor": "Fiestera",
+              "guia": "llamada_respuesta_coros"
+            }
+          ]
+        },
+        {
+          "valor": "Merengue de orquesta/moderno",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Romántico",
+              "guia": "estribillo_melodico_metales"
+            },
+            {
+              "valor": "Social/humor",
+              "guia": "letras_ingeniosas_coros"
+            },
+            {
+              "valor": "Baile/celebración",
+              "guia": "estribillo_frase_repetida_merengue"
+            }
+          ]
+        },
+        {
+          "valor": "Mambo/merengue urbano",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Fusión con reguetón",
+              "guia": "coro_corto_base_percusion"
+            },
+            {
+              "valor": "Fusión con electrónica",
+              "guia": "sintetizadores_tempo_alto_drops"
+            },
+            {
+              "valor": "Fusión con trap",
+              "guia": "versos_rapeados_coro_cantado"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "Reguetón",
+      "pregunta": "¿Qué estilo de reguetón prefieres?",
+      "hijos": [
+        {
+          "valor": "Reguetón clásico/old school",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Fiestero/callejero",
+              "guia": "coro_frase_repetida_dembow"
+            },
+            {
+              "valor": "Con narrativa",
+              "guia": "versos_historia_coro_pegajoso"
+            },
+            {
+              "valor": "Himno de barrio",
+              "guia": "estribillo_colectivo_jerga"
+            }
+          ]
+        },
+        {
+          "valor": "Reguetón romántico/perreo suave",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Enamoramiento",
+              "guia": "coro_dulce_tempo_medio"
+            },
+            {
+              "valor": "Desamor",
+              "guia": "llora_pero_baila"
+            },
+            {
+              "valor": "Seducción",
+              "guia": "letras_insinuantes_ritmo_lento"
+            }
+          ]
+        },
+        {
+          "valor": "Reguetón experimental/trapetón",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Fusión con otros géneros",
+              "guia": "definir_aporte_cada_genero"
+            },
+            {
+              "valor": "Letra conceptual",
+              "guia": "tematicas_inusuales_introspectivas"
+            },
+            {
+              "valor": "Producción atmosférica",
+              "guia": "texturas_efectos_silencios"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "valor": "Bachata",
+      "pregunta": "¿Qué estilo de bachata prefieres?",
+      "hijos": [
+        {
+          "valor": "Bachata tradicional/dominicana",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Amor/desamor campesino",
+              "guia": "letras_sencillas_metaforas_naturales"
+            },
+            {
+              "valor": "Narrativa cotidiana",
+              "guia": "versos_largos_coro_breve"
+            },
+            {
+              "valor": "Homenaje a la tradición",
+              "guia": "referencias_campo_familia"
+            }
+          ]
+        },
+        {
+          "valor": "Bachata moderna/romántica",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Amor apasionado",
+              "guia": "coro_amplio_armonias_vocales"
+            },
+            {
+              "valor": "Desamor/drama",
+              "guia": "versos_intimos_puente_climax"
+            },
+            {
+              "valor": "Nostalgia",
+              "guia": "letras_recuerdo_arreglos_suaves"
+            }
+          ]
+        },
+        {
+          "valor": "Bachata urbana/fusión",
+          "pregunta": "¿Qué enfoque quieres darle a la canción?",
+          "hijos": [
+            {
+              "valor": "Fusión con reguetón",
+              "guia": "coro_corto_beat_urbano_guitarra"
+            },
+            {
+              "valor": "Fusión con R&B",
+              "guia": "armonias_vocales_produccion_pulida"
+            },
+            {
+              "valor": "Fusión con trap",
+              "guia": "versos_rapeados_contraste_ritmico"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "preguntas_finales": [
+    {
+      "id": "emocion",
+      "pregunta": "¿Cuál es la emoción central de la canción?",
+      "opciones": [
+        "Alegría",
+        "Tristeza",
+        "Nostalgia",
+        "Amor",
+        "Esperanza",
+        "Rebeldía",
+        "Superación",
+        "Energía"
+      ],
+      "guia": "una_sola_palabra_emocional"
+    },
+    {
+      "id": "hook",
+      "pregunta": "¿Qué frase o idea quieres que recuerde el público?",
+      "tipo": "texto_libre",
+      "guia": "frase_o_melodia_repetible"
+    },
+    {
+      "id": "estructura",
+      "pregunta": "¿Qué estructura prefieres para la canción?",
+      "opciones": [
+        "Verso - estribillo - verso - estribillo - puente - estribillo",
+        "Intro - verso - preestribillo - estribillo - verso - estribillo",
+        "Estructura libre/experimental"
+      ],
+      "guia": "verso_coro_puente"
+    },
+    {
+      "id": "voz",
+      "pregunta": "¿Qué tipo de voz o registro imaginas?",
+      "opciones": [
+        "Voz grave",
+        "Voz media",
+        "Voz aguda",
+        "Dúo",
+        "Coro grupal"
+      ],
+      "guia": "registro_comodo_emocion"
+    },
+    {
+      "id": "instrumento",
+      "pregunta": "¿Qué instrumento o sonido debería identificar la canción?",
+      "opciones": [
+        "Guitarra eléctrica",
+        "Guitarra acústica",
+        "Piano",
+        "Bajo",
+        "Metales",
+        "Percusión latina",
+        "Sintetizadores",
+        "Instrumento tradicional del género"
+      ],
+      "guia": "instrumento_define_genero"
+    }
+  ]
+}
